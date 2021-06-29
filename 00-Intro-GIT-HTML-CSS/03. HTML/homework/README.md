@@ -1,6 +1,9 @@
 # Homework: HTML
 
 Ahora que nos ha visto crear un archivo HTML y una hoja de estilo externa, crearas una propia.
+<!DOCTYPE html>
+<html>
+
 
 ## Ejercicio I
 
